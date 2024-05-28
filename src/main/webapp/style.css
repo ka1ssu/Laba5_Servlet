@@ -1,0 +1,29 @@
+.button-container {
+    width: 800px;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    /*justify-content: space-between;*/
+    /*padding: 100px;*/
+    justify-content: center;
+    /*text-indent: 20px;*/
+}
+
+#send {
+    margin-left: 15px;
+}
+
+#update {
+    margin-top: 15px;
+}
+
+#delete {
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.questionnaire {
+    width: 300px;
+    margin: auto;
+
+}
